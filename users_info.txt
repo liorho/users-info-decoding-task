@@ -1,0 +1,52 @@
+5A3F >>> {'first_name': 'olga', 'last_name': 'Sims', 'phone': '0893762571', 'time': '2012-11-23 19:38:13'}
+
+DD4C >>> {'first_name': 'Felix', 'last_name': 'West', 'phone': '072-4621547', 'time': '2012-09-02 11:20:58'}
+
+B3F9 >>> {'first_name': 'Juanita', 'last_name': 'Soto', 'phone': '0389927752', 'time': '2012-08-27 14:25:15'}
+
+E66E >>> {'first_name': 'Juana', 'last_name': 'Bates', 'phone': '048865961', 'time': '2012-02-20 18:06:01'}
+
+D1A9 >>> {'first_name': 'Timothy', 'last_name': 'Hines', 'phone': '059-603163', 'time': '2012-06-24 10:16:58'}
+
+5BBE >>> {'first_name': 'Cary', 'last_name': 'Thompson', 'phone': '0467674021', 'time': '2013-06-11 15:57:19'}
+
+A6E9 >>> {'first_name': 'Minnie', 'last_name': 'Chavez', 'phone': '0955772319', 'time': '2012-01-02 13:06:38'}
+
+3168 >>> {'first_name': 'Marc', 'last_name': 'Delgado', 'phone': '0907216170', 'time': '2012-04-06 21:35:36'}
+
+A71A >>> {'first_name': 'Rudolph', 'last_name': 'Banks', 'phone': '054-446 3472', 'time': '2013-11-02 09:32:40'}
+
+5159 >>> {'first_name': 'Mickael Barrie Linwood', 'last_name': 'Holmes', 'phone': '03-46129559', 'time': '2012-12-11 17:48:40'}
+
+1E27 >>> {'first_name': 'Lee', 'last_name': 'Austin', 'phone': '0223104540', 'time': '2012-03-19 15:49:53'}
+
+538F >>> {'first_name': 'Wilma', 'last_name': 'Gonzalez', 'phone': '+54 (5655) 225 8210', 'time': '2012-07-01 15:02:42'}
+
+BF49 >>> {'first_name': 'Jamie', 'last_name': 'Greer', 'phone': '017041440', 'time': '2012-05-11 11:13:59'}
+
+BB7C >>> {'first_name': 'Jephtha Veronika Kristen', 'last_name': 'Tirrell', 'phone': '0245395151', 'time': '2013-05-08 09:49:27'}
+
+C1A2 >>> {'first_name': 'Corey', 'last_name': 'Griffith', 'phone': '062966368', 'time': '2012-08-12 09:39:33'}
+
+941B >>> {'first_name': 'Elvira', 'last_name': 'Powell', 'phone': '0448806609', 'time': '2012-05-26 12:12:42'}
+
+B4D4 >>> {'first_name': 'Andre', 'last_name': 'Steele', 'phone': '0487621854', 'time': '2012-06-17 16:06:32'}
+
+5511 >>> {'first_name': 'Winifred', 'last_name': 'Tran', 'phone': '0188577963', 'time': '2012-01-27 16:55:42'}
+
+6444 >>> {'first_name': 'Jessie', 'last_name': 'Payne', 'phone': '0226514301', 'time': '2013-10-25 16:43:28'}
+
+56F2 >>> {'first_name': 'Eloise', 'last_name': 'Jenkins', 'phone': '0354203289', 'time': '2012-02-22 20:19:08'}
+
+9F99 >>> {'first_name': 'Miguel', 'last_name': 'Alvarez', 'phone': '+54 (569) 9547 1740', 'time': '2012-01-08 10:27:07'}
+
+36AF >>> {'first_name': 'Elias', 'last_name': 'Alvarado', 'phone': '0891632801', 'time': '2012-08-20 09:30:50'}
+
+3081 >>> {'first_name': 'Lynda', 'last_name': 'Chambers', 'time': '2013-03-10 20:01:57'}
+
+D7AB >>> {'first_name': 'Virgil Rut Hefin', 'last_name': 'Welch', 'phone': '0695304544', 'time': '2013-05-06 13:08:46'}
+
+DA5B >>> {'first_name': 'Don', 'last_name': 'Hall', 'phone': '0859268458', 'time': '2012-11-23 08:52:18'}
+
+FBC5 >>> {'last_name': 'Ulla', 'phone': '0693206727', 'time': '2012-08-20 10:37:32'}
+
