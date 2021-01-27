@@ -1,4 +1,4 @@
-# Users Info Decoding Task
+# Users Info Decoding Challenge
 
 ## The Challenge
 I'd become a decoder for a couple of hours and accepted a challenge (from a big cyber company):
